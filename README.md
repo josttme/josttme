@@ -19,6 +19,7 @@ rel="noopener noreferrer">
 <img
 align="right" width="400" height="auto" alt="Skills"
 src="https://i.ibb.co/Lx51Dt0/josu-dev-1.png">
+
 Desarrollador Front-End especializado en JavaScript, con más de 4 años de experiencia de estudio y más de 100 certificaciones de Platzi,
 abarcando desde fundamentos hasta temas avanzados en desarrollo web.<br>Comprometido con el aprendizaje continuo.
 
