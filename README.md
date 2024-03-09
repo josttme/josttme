@@ -22,8 +22,6 @@ src="/skills.webp">
 Desarrollador Front-End especializado en JavaScript, con más de 4 años de experiencia de estudio y más de 100 certificaciones de Platzi,
 abarcando desde fundamentos hasta temas avanzados en desarrollo web.<br>Comprometido con el aprendizaje continuo.
 
-Con más de 2 años como voluntario enseñando a niños y jóvenes.
-
 Mi objetivo es dominar React, TypeScript y Next.js,
 así como adquirir sólidos conocimientos de desarrollo backend.
 
