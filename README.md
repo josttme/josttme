@@ -38,8 +38,8 @@ Si buscas un desarrollador web dedicado y apasionado, estoy listo para formar pa
 
 ## 📊 Estadísticas de GitHub:
 <p align="center">
-<img align="center" height="200" he src="https://github-readme-streak-stats.herokuapp.com/?user=josttme&theme=algolia&hide_border=false" alt="Estadísticas de GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josttme&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Estadísticas de GitHub" />
+<img align="center" height="190" he src="https://github-readme-streak-stats.herokuapp.com/?user=josttme&theme=algolia&hide_border=false" alt="Estadísticas de GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josttme&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Estadísticas de GitHub" />
 </p>
 
 ## 💚 Perfil de Platzi:
