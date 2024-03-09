@@ -1,6 +1,6 @@
 <h1 align= 'center'>🙋Hola, Soy Josue Tapia 🧑‍💻</h1> 
-<center> 
-<a
+
+<center><a
 title="X" 
 target="_blank"
 href="https://twitter.com/JosttMe"
@@ -11,9 +11,7 @@ title="X"
 target="_blank"
 href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
-<img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
-</center>
-<hr>
+<img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a></center>
 
 <img
 align="right" width="400" height="auto" alt="Skills"
