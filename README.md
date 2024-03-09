@@ -5,12 +5,14 @@
 <a
 title="X" 
 target="_blank"
+align='center'
 href="https://twitter.com/JosttMe"
 rel="noopener noreferrer">
 <img  width="50" height="auto" src="https://i.ibb.co/thrQCr7/x-low.png"></a> 
 <a
 title="X"
 target="_blank"
+align='center'
 href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
 <img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
