@@ -16,7 +16,7 @@ rel="noopener noreferrer">
 </p>
 <hr>
 <img
-align="right" width="380" height="auto" alt="Skills"
+align="right" width="340" height="auto" alt="Skills"
 src="/skills.webp">
 
 Desarrollador Front-End especializado en JavaScript, con más de 4 años de experiencia de estudio y más de 100 certificaciones de Platzi,
