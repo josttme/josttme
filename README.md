@@ -14,7 +14,7 @@ href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
 <img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
 </center>
-<div>
+
 
 <img
 align="right" width="400" height="auto" alt="Skills"
@@ -29,8 +29,8 @@ así como adquirir sólidos conocimientos de desarrollo backend.
 
 Si buscas un desarrollador web dedicado y apasionado,
 estoy listo para formar parte de tu equipo.
-</div>
-</br>
+
+
 <hr>
 <p align="center">
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josttme&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Estadísticas de GitHub" />
