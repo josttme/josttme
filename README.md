@@ -1,5 +1,6 @@
 <h1 align= 'center'>🙋Hola, Soy Josue Tapia 🧑‍💻</h1> 
 <div>
+  
 <center> 
 <a
 title="X" 
@@ -14,6 +15,7 @@ href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
 <img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
 </center>
+
 </div>
 
 <img
