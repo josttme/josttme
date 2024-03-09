@@ -4,21 +4,19 @@
 <a
 title="X" 
 target="_blank"
-align='center'
 href="https://twitter.com/JosttMe"
 rel="noopener noreferrer">
-<img  width="50" align='center' height="auto" src="https://i.ibb.co/thrQCr7/x-low.png"></a> 
+<img  width="50" height="auto" src="https://i.ibb.co/thrQCr7/x-low.png"></a> 
 <a
 title="X"
 target="_blank"
-align='center'
 href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
-<img  width="50" align='center' height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
+<img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
 </p>
-
+<hr>
 <img
-align="right" width="400" height="auto" alt="Skills"
+align="right" width="350" height="auto" alt="Skills"
 src="/skills.webp">
 
 Desarrollador Front-End especializado en JavaScript, con más de 4 años de experiencia de estudio y más de 100 certificaciones de Platzi,
