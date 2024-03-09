@@ -14,7 +14,7 @@ href="https://www.linkedin.com/in/josttme"
 rel="noopener noreferrer">
 <img  width="50" height="auto" src="https://i.ibb.co/v40x1sJ/linkedin-low.png"></a>
 </p>
-<hr>
+</br>
 <img
 align="right" width="340" height="auto" alt="Skills"
 src="/skills.webp">
