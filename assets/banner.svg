@@ -24,20 +24,20 @@
   <rect width="1200" height="260" fill="url(#bg)" rx="0" />
 
   <!-- Línea decorativa de acento -->
-  <rect x="80" y="145" width="300" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)" />
+  <rect x="80" y="135" width="375" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)" />
 
   <!-- Nombre -->
-  <text x="80" y="110" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#0eaef8" letter-spacing="-0.5">
+  <text x="80" y="110" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="65" font-weight="700" fill="#0eaef8" letter-spacing="-0.5">
     Josue Tapia
   </text>
 
   <!-- Rol -->
-  <text x="80" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="400" fill="#1b9dee" letter-spacing="0.3">
+  <text x="80" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="32" font-weight="400" fill="#1b9dee" letter-spacing="0.3">
     FullStack Software Engineer
   </text>
 
   <!-- Tagline -->
-  <text x="80" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="300" fill="#2898df" letter-spacing="0.2">
+  <text x="80" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="300" fill="#2898df" letter-spacing="0.2">
     Del problema de negocio al sistema en producción
   </text>
 </svg>
