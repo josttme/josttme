@@ -34,16 +34,19 @@
 
 **💻 Lenguajes**
 
+<p >
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="35">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35">
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="35">
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="35">
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="35">
+</p>
 
 ---
 
 **🎨 Frontend**
 
+<p >
 <img src="https://img.shields.io/badge/React%2019-087ea4?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" height="35">
 <img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" height="35">
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" height="35">
@@ -53,19 +56,23 @@
 <img src="https://img.shields.io/badge/Zod%20v4-3e67b8?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="35">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="35">
 <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="35">
+</p>
 
 ---
 
 **⚙️ Backend y datos**
 
+<p >
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="35">
 <img src="https://img.shields.io/badge/PostgreSQL_(RPC,_RLS,_Triggers)-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="35">
 <img src="https://img.shields.io/badge/Cloudflare%20R2-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" height="35">
+</p>
 
 ---
 
 **🧩 Arquitectura y herramientas**
 
+<p >
 <a href="https://feature-sliced.github.io/documentation/"><img src="https://img.shields.io/badge/Feature--Sliced-Design?style=for-the-badge&labelColor=262224&color=F2F2F2&logoWidth=10&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAaCAYAAAC3g3x9AAAACXBIWXMAAALFAAACxQGJ1n/vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA/SURBVHgB7dKxCgAgCIThs/d/51JoNQIdDrxvqMXlR4FmFs92KDIX/wI7JSdDN+eHtkxIycnQvMNW8hN/crsDc5QgGX9NvT0AAAAASUVORK5CYII=" alt="Feature-Sliced Design" height="35"></a>
 <img src="https://img.shields.io/badge/Seguridad_(RBAC)-333?style=for-the-badge&logo=shield&logoColor=white" alt="Seguridad RBAC" height="35">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="35">
@@ -73,6 +80,7 @@
 <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35">
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" height="35">
 <img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="35">
+</p>
 
 ---
 
