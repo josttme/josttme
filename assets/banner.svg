@@ -1,0 +1,43 @@
+<svg width="1200" height="260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#010108;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#010528;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#08BBFD;stop-opacity:1" />
+      
+      <stop offset="35%" style="stop-color:#EFDA4E;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#08C379;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C50DC6;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="260" fill="url(#bg)" rx="0" />
+
+  <!-- Línea decorativa de acento -->
+  <rect x="80" y="145" width="300" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)" />
+
+  <!-- Nombre -->
+  <text x="80" y="110" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" fill="#0eaef8" letter-spacing="-0.5">
+    Josue Tapia
+  </text>
+
+  <!-- Rol -->
+  <text x="80" y="180" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="25" font-weight="400" fill="#1b9dee" letter-spacing="0.3">
+    FullStack Software Engineer
+  </text>
+
+  <!-- Tagline -->
+  <text x="80" y="220" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="300" fill="#2898df" letter-spacing="0.2">
+    Del problema de negocio al sistema en producción
+  </text>
+</svg>
