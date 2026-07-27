@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Proyecto destacado
 
 Jul 2026 – Presente | Software Engineer (Freelance) | Cemag OS POS
 
