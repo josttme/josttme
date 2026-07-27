@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josttme" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tapia.josue@outlook.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Correo-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo" height="40" />
+    <img src="https://img.shields.io/badge/Correo-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Correo" height="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://josue-tapia-cv.josue-tapia6494.workers.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Ver%20CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV" height="40" />
+    <img src="https://img.shields.io/badge/Ver%20CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV" height="50" />
   </a>
 </p>
 
@@ -58,11 +58,11 @@ Desarrollé y desplegué de forma independiente un sistema web completo (Full-St
 **💻 Lenguajes**
 
 <p >
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
-<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="40">
+<img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="50">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50">
+<img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="50">
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50">
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="50">
 </p>
 
 ---
@@ -70,15 +70,15 @@ Desarrollé y desplegué de forma independiente un sistema web completo (Full-St
 **🎨 Frontend**
 
 <p >
-<img src="https://img.shields.io/badge/React%2019-087ea4?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" height="40">
-<img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" height="40">
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" height="40">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="40">
-<img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="40">
-<img src="https://img.shields.io/badge/TanStack%20Table-ff4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Table" height="40">
-<img src="https://img.shields.io/badge/Zod%20v4-3e67b8?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="40">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="40">
-<img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="40">
+<img src="https://img.shields.io/badge/React%2019-087ea4?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" height="50">
+<img src="https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16" height="50">
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" height="50">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="50">
+<img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="50">
+<img src="https://img.shields.io/badge/TanStack%20Table-ff4154?style=for-the-badge&logo=tanstack&logoColor=white" alt="TanStack Table" height="50">
+<img src="https://img.shields.io/badge/Zod%20v4-3e67b8?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="50">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="50">
+<img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" height="50">
 </p>
 
 ---
@@ -86,9 +86,9 @@ Desarrollé y desplegué de forma independiente un sistema web completo (Full-St
 **⚙️ Backend y datos**
 
 <p >
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="40">
-<img src="https://img.shields.io/badge/PostgreSQL_(RPC,_RLS,_Triggers)-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40">
-<img src="https://img.shields.io/badge/Cloudflare%20R2-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" height="40">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="50">
+<img src="https://img.shields.io/badge/PostgreSQL_(RPC,_RLS,_Triggers)-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="50">
+<img src="https://img.shields.io/badge/Cloudflare%20R2-f38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" height="50">
 </p>
 
 ---
@@ -96,14 +96,14 @@ Desarrollé y desplegué de forma independiente un sistema web completo (Full-St
 **🧩 Arquitectura y herramientas**
 
 <p >
-<a href="https://feature-sliced.github.io/documentation/"><img src="https://img.shields.io/badge/Feature--Sliced%20Design-2C2C2C?style=for-the-badge&logoColor=white" alt="Feature-Sliced Design" height="40"></a>
-<img src="https://img.shields.io/badge/Seguridad_(RBAC)-333?style=for-the-badge&logo=shield&logoColor=white" alt="Seguridad RBAC" height="40">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40">
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" height="40">
-<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40">
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" height="40">
-<img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="40">
-<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" height="40">
+<a href="https://feature-sliced.github.io/documentation/"><img src="https://img.shields.io/badge/Feature--Sliced%20Design-2C2C2C?style=for-the-badge&logoColor=white" alt="Feature-Sliced Design" height="50"></a>
+<img src="https://img.shields.io/badge/Seguridad_(RBAC)-333?style=for-the-badge&logo=shield&logoColor=white" alt="Seguridad RBAC" height="50">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="50">
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" height="50">
+<img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" height="50">
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" height="50">
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" height="50">
 </p>
 
 ---
